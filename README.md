@@ -1,0 +1,3 @@
+- Hi, I’m Amirhossein Emadi.
+- I am computer engineering student
+- I’m currently learning html, css, javascript, java, php.
