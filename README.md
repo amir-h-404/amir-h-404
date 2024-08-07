@@ -23,10 +23,10 @@
 
 ## Frameworks :
 
-| Laravel                                                                          |
-| -------------------------------------------------------------------------------- |
-| <img src="laravelIcon.png" alt="laravel" title="Laravel" width="60" height="60"> |
-| 60%                                                                              |
+| Laravel                                                                          | Next.js                                                                         |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| <img src="laravelIcon.png" alt="laravel" title="Laravel" width="60" height="60"> | <img src="nextJsIcon.webp" alt="next.js" title="NextJs" width="60" height="60"> |
+| 60%                                                                              | 20%                                                                             |
 
 ## Libraries :
 
