@@ -16,7 +16,7 @@
 
 ## Languages :
 
-| C#                                                                         | PHP  |
-| -------------------------------------------------------------------------- | ---- |
-| <img src="cSharpIcon.png" alt="C Sharp" title="C#" width="60" height="60"> | test |
-| Learning...                                                                | test |
+| C#                                                                         | PHP                                                                  |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| <img src="cSharpIcon.png" alt="C Sharp" title="C#" width="60" height="60"> | <img src="phpIcon.png" alt="php" title="PHP" width="60" height="60"> |
+| Learning                                                                   | 90%                                                                  |
