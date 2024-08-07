@@ -30,10 +30,10 @@
 
 ## Libraries :
 
-| React                                                                       |
-| --------------------------------------------------------------------------- |
-| <img src="reactIcon.webp" alt="react" title="React" width="60" height="60"> |
-| 40%                                                                         |
+| React                                                                       | jQuery                                                                        |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| <img src="reactIcon.webp" alt="react" title="React" width="60" height="60"> | <img src="jqueryIcon.png" alt="jQuery" title="JQuery" width="60" height="60"> |
+| 40%                                                                         | 50%                                                                           |
 
 ## Tools :
 
