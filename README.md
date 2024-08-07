@@ -37,7 +37,14 @@
 
 ## Tools :
 
-| Git                                                                  |
-| -------------------------------------------------------------------- |
-| <img src="gitIcon.png" alt="git" title="Git" width="60" height="60"> |
-| 80%                                                                  |
+| Git                                                                  | Composer                                                                            | Node.js                                                                         | Xampp                                                                      | Postman                                                                          |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| <img src="gitIcon.png" alt="git" title="Git" width="60" height="60"> | <img src="composerIcon.png" alt="composer" title="Composer" width="60" height="60"> | <img src="nodejsIcon.png" alt="node.js" title="Node.js" width="60" height="60"> | <img src="xamppIcon.png" alt="xampp" title="Xampp" width="60" height="60"> | <img src="postmanIcon.png" alt="postman" title="Postman" width="60" height="60"> |
+| 80%                                                                  | 100%                                                                                | 50%                                                                             | 100%                                                                       | 100%                                                                             |
+
+## Databases :
+
+| MySQL                                                                      |
+| -------------------------------------------------------------------------- |
+| <img src="mysqlIcon.png" alt="mysql" title="MySQL" width="60" height="60"> |
+| 100%                                                                       |
