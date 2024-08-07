@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Emadi</h1>
 <h3 align="center">A passionate fullstack developer from Iran</h3>
 
-- 🌱 I’m currently learning **Laravel, React and Git**
+- 🌱 I’m currently learning **C#, ASP.NET and React**
 
-- 💬 Ask me about **PHP, HTML, CSS and Javascript**
+- 💬 Ask me about **PHP and Laravel**
 
 - 📫 How to reach me **emadi.henker404@gmail.com**
 
