@@ -20,3 +20,10 @@
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | <img src="cSharpIcon.png" alt="C Sharp" title="C#" width="60" height="60"> | <img src="phpIcon.png" alt="php" title="PHP" width="60" height="60"> | <img src="htmlIcon.png" alt="html" title="HTML" width="60" height="60"> | <img src="cssIcon.png" alt="css" title="CSS" width="60" height="60"> | <img src="jsIcon.png" alt="js" title="JavaScript" width="60" height="60"> | <img src="pythonIcon.png" alt="python" title="Python" width="60" height="60"> | <img src="javaIcon.png" alt="java" title="Java" width="60" height="60"> | <img src="english.png" alt="english" title="English" width="60" height="60"> |
 | Learning                                                                   | 90%                                                                  | 100%                                                                    | 70%                                                                  | 50%                                                                       | 20%                                                                           | 40%                                                                     | Learning                                                                     |
+
+## Frameworks :
+
+| Laravel                                                                          |
+| -------------------------------------------------------------------------------- |
+| <img src="laravelIcon.png" alt="laravel" title="Laravel" width="60" height="60"> |
+| 60%                                                                              |
