@@ -28,6 +28,13 @@
 | <img src="laravelIcon.png" alt="laravel" title="Laravel" width="60" height="60"> |
 | 60%                                                                              |
 
+## Libraries :
+
+| React                                                                       |
+| --------------------------------------------------------------------------- |
+| <img src="reactIcon.webp" alt="react" title="React" width="60" height="60"> |
+| 40%                                                                         |
+
 ## Tools :
 
 | Git                                                                  |
