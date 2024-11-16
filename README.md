@@ -11,6 +11,3 @@ from <a href="https://en.wikipedia.org/wiki/Iran"><img src="iran-flag.png" alt="
 
 - 📫 How to reach me **emadi.henker404@gmail.com**
 
-| Connect with me | <a href="https://t.me/amir404Coder"><img src="telegramLogo.png" alt="telegram logo" width="70"></a> | <a href="https://www.linkedin.com/in/amirhossein-emadi"><img src="linkedinLogo.webp" alt="linkedin logo" width="60"></a> | <a href="https://stackoverflow.com/users/22668974/amirhossein-emadi"><img src="StackOverflowLogo.png" alt="StackOverflow logo" width="50"></a> |
-|:---------------:|:---------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
-
