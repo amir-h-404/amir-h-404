@@ -5,9 +5,7 @@ from <a href="https://en.wikipedia.org/wiki/Iran"><img src="iran-flag.png" alt="
 
 ---
 
-- 🌱 I’m currently learning **C++**
-
-- 💬 Ask me about **PHP and Laravel**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **emadi.henker404@gmail.com**
 
