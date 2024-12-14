@@ -5,7 +5,7 @@ from <a href="https://en.wikipedia.org/wiki/Iran"><img src="iran-flag.png" alt="
 
 ---
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **emadi.henker404@gmail.com**
 
