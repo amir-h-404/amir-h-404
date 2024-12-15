@@ -9,6 +9,6 @@
 - ### [Tailwindcss](https://tailwindcss.com)
 - ### [Git](https://git-scm.com)
 - ### [Node.js](https://nodejs.org/en)
-- ### [MySQL](https://mysql.com)
+- ### [MySQL](https://www.mysql.com)
 ### my gmail: **emadi.henker404@gmail.com**
 
