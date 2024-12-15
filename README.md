@@ -1,5 +1,5 @@
 # Hi , I'm Amirhossein Emadi
-- **A developer and computer engineer from Iran**
+- **A [full-stack developer](https://en.wikipedia.org/wiki/Solution_stack#Full-stack_developer) and [computer engineering](https://en.wikipedia.org/wiki/Computer_engineering) student from [Iran](https://en.wikipedia.org/wiki/Iran)**
 - **birthday: 4/13/2000**
 
 ## I’m currently learning: 
