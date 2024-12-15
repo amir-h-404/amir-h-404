@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amirhossein Emadi</h1>
-
-<h2 align="center">A developer and computer engineer
-from <a href="https://en.wikipedia.org/wiki/Iran"><img src="iran-flag.png" alt="iran flag" width="40"></a></h2>
-
----
-
-- 🌱 I’m currently learning **Next.js**
-
-- 📫 How to reach me **emadi.henker404@gmail.com**
+# Hi , I'm Amirhossein Emadi
+## A developer and computer engineer from Iran
+### I’m currently learning **Next.js**
+### my gmail: **emadi.henker404@gmail.com**
 
