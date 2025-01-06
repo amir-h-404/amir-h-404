@@ -9,6 +9,7 @@
 - **[Next.js](https://nextjs.org)**
 - **[Docker](https://www.docker.com)**
 - **[Prisma](https://www.prisma.io)**
+- **[C++](https://en.wikipedia.org/wiki/C%2B%2B)**
 
 ## My skills include: 
 - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
