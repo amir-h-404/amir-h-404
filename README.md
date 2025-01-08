@@ -6,10 +6,7 @@
 - **You can reach me at emadi.henker404@gmail.com**
 
 ## I’m currently learning: 
-- **[Next.js](https://nextjs.org)**
-- **[Docker](https://www.docker.com)**
-- **[Prisma](https://www.prisma.io)**
-- **[C++](https://en.wikipedia.org/wiki/C%2B%2B)**
+- **[C#](https://learn.microsoft.com/en-us/dotnet/csharp)**
 
 ## My skills include: 
 - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
@@ -20,6 +17,8 @@
 - **[Git](https://git-scm.com)**
 - **[Node.js](https://nodejs.org/en)**
 - **[MySQL](https://www.mysql.com)**
+- **[Next.js](https://nextjs.org)**
+- **[Prisma](https://www.prisma.io)**
 
 ## My goals for the future:
 - **To deepen my knowledge of cloud technologies and deployment strategies, particularly with platforms like AWS and Azure.**
