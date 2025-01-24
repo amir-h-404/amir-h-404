@@ -6,19 +6,16 @@
 - **You can reach me at emadi.henker404@gmail.com**
 
 ## I’m currently learning:
-- **[Unity](https://unity.com)**
+- **[Java](https://www.java.com)**
 
 ## My skills include: 
 - **[C#](https://learn.microsoft.com/en-us/dotnet/csharp)**
 - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**
 - **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
-- **[SCSS](https://sass-lang.com/documentation/syntax)**
 - **[Tailwindcss](https://tailwindcss.com)**
 - **[Git](https://git-scm.com)**
 - **[MySQL](https://www.mysql.com)**
-- **[Next.js](https://nextjs.org)**
-- **[Prisma](https://www.prisma.io)**
 
 ## My goals for the future:
 - **To deepen my knowledge of cloud technologies and deployment strategies, particularly with platforms like AWS and Azure.**
