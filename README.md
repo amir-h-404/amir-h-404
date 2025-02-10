@@ -6,9 +6,10 @@
 - **You can reach me at emadi.henker404@gmail.com**
 
 ## I’m currently learning:
-- **[Java](https://www.java.com)**
+- **[Python](https://docs.python.org/)**
 
 ## My skills include: 
+- **[Java](https://www.java.com)**
 - **[C#](https://learn.microsoft.com/en-us/dotnet/csharp)**
 - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**
