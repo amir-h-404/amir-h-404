@@ -5,9 +5,6 @@
 - **I currently specialize in using the Next.js framework to build dynamic and robust web applications.**
 - **You can reach me at emadi.henker404@gmail.com**
 
-## I’m currently learning:
-- **[Python](https://docs.python.org/)**
-
 ## My skills include: 
 - **[Java](https://www.java.com)**
 - **[C#](https://learn.microsoft.com/en-us/dotnet/csharp)**
