@@ -1,28 +1,51 @@
 ## It's me!
-- **Hi, I'm [Amirhossein Emadi](/), a full-stack developer and software engineering student from Iran.**
+
+- **Hi, I'm Amirhossein Emadi, a back-end developer and software engineering student from Iran.**
 - **I was born on April 13, 2000.**
-- **My journey as a JavaScript developer has evolved from a strong interest in software development and problem-solving.**
-- **I currently specialize in using the Next.js framework to build dynamic and robust web applications.**
 - **You can reach me at emadi.henker404@gmail.com**
 
-## My skills include: 
-- **[Java](https://www.java.com)**
-- **[C#](https://learn.microsoft.com/en-us/dotnet/csharp)**
-- **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-- **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**
-- **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
-- **[Tailwindcss](https://tailwindcss.com)**
-- **[Git](https://git-scm.com)**
-- **[MySQL](https://www.mysql.com)**
+## Back-end Languages
 
-## My goals for the future:
-- **To deepen my knowledge of cloud technologies and deployment strategies, particularly with platforms like AWS and Azure.**
-- **To contribute to open-source projects and collaborate with other developers to enhance my skills and network within the tech community.**
-- **To explore the world of mobile development and learn frameworks like React Native to expand my capabilities as a full-stack developer.**
+|    **Name**    |                                              **Icon**                                               |   **My Level**   |
+|:--------------:|:---------------------------------------------------------------------------------------------------:|:----------------:|
+|   **GoLang**   |     <img alt="GoLang Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/golang.svg">     |   **Advanced**   |
+|  **C# .NET**   |  <img alt="CSharp .NET Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/dotnet.svg">   |   **Advanced**   |
+|    **PHP**     |        <img alt="PHP Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/php.svg">        | **Intermediate** |
+|   **Python**   |     <img alt="Python Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/python.svg">     |   **beginner**   |
+|    **Java**    |       <img alt="Java Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/java.svg">       | **Intermediate** |
+| **JavaScript** | <img alt="JavaScript Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/javaScript.svg"> | **Intermediate** |
 
-## In my spare time, I enjoy:
-- **Reading tech blogs and following industry trends to stay updated on the latest advancements in software development.**
-- **Participating in coding challenges and hackathons to sharpen my problem-solving skills and meet like-minded individuals.**
-- **Exploring new technologies and tools that can improve my workflow and enhance my projects.**
+## Back-end Skills
 
-*Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/amirhossein-emadi)** or check out my **GitHub profile** to see my latest projects and contributions!*
+coming soon...
+
+## Back-end Tools
+
+|  **Name**   |                                           **Icon**                                            |   **My Level**   |
+|:-----------:|:---------------------------------------------------------------------------------------------:|:----------------:|
+| **Postman** | <img alt="Postman Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/postman.svg"> | **Intermediate** |
+|  **MySQL**  |   <img alt="MySQL Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/mysql.svg">   |   **Advanced**   |
+
+## My Future Goals 🚀
+
+### 🌩 Master Cloud-Native Backend Development
+
+Deepen expertise in AWS and Azure for backend systems, focusing on:
+
+- Serverless architectures (AWS Lambda, Azure Functions)
+
+- Containerization & orchestration (Docker, Kubernetes, AWS ECS, Azure AKS)
+
+- Infrastructure-as-Code (Terraform, AWS CDK)
+
+- Database optimization (NoSQL, Caching, Distributed Systems)
+
+### 🤝 Collaborate & Contribute to Open-Source
+
+Actively participate in backend-focused OSS projects, including:
+
+- API frameworks (e.g., FastAPI, Express.js, Spring Boot)
+
+- Database/ORM tools (e.g., Redis, SQLAlchemy, Hibernate)
+
+- Microservices & distributed systems projects
