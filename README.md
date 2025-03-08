@@ -15,10 +15,6 @@
 |    **Java**    |       <img alt="Java Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/java.svg">       | **Intermediate** |
 | **JavaScript** | <img alt="JavaScript Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/javaScript.svg"> | **Intermediate** |
 
-## Back-end Skills
-
-coming soon...
-
 ## Back-end Tools
 
 |  **Name**   |                                           **Icon**                                            |   **My Level**   |
