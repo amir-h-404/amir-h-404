@@ -8,19 +8,19 @@
 
 |    **Name**    |                                              **Icon**                                               |   **My Level**   |
 |:--------------:|:---------------------------------------------------------------------------------------------------:|:----------------:|
-|   **GoLang**   |     <img alt="GoLang Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/golang.svg">     |   **Advanced**   |
-|  **C# .NET**   |  <img alt="CSharp .NET Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/dotnet.svg">   |   **Advanced**   |
-|    **PHP**     |        <img alt="PHP Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/php.svg">        | **Intermediate** |
-|   **Python**   |     <img alt="Python Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/python.svg">     |   **beginner**   |
-|    **Java**    |       <img alt="Java Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/java.svg">       | **Intermediate** |
-| **JavaScript** | <img alt="JavaScript Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/javaScript.svg"> | **Intermediate** |
+|   **GoLang**   |     <img alt="GoLang Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/golang.svg">     |   🌟🌟🌟🌟🌟🌟  |
+|  **C# .NET**   |  <img alt="CSharp .NET Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/dotnet.svg">   |   🌟🌟🌟🌟🌟   |
+|    **PHP**     |        <img alt="PHP Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/php.svg">        | 🌟🌟🌟🌟 |
+|   **Python**   |     <img alt="Python Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/python.svg">     |   🌟   |
+|    **Java**    |       <img alt="Java Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/java.svg">       | 🌟🌟 |
+| **JavaScript** | <img alt="JavaScript Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/javaScript.svg"> | 🌟🌟🌟 |
 
 ## Back-end Tools
 
 |  **Name**   |                                           **Icon**                                            |   **My Level**   |
 |:-----------:|:---------------------------------------------------------------------------------------------:|:----------------:|
-| **Postman** | <img alt="Postman Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/postman.svg"> | **Intermediate** |
-|  **MySQL**  |   <img alt="MySQL Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/mysql.svg">   |   **Advanced**   |
+| **Postman** | <img alt="Postman Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/postman.svg"> | 🌟🌟🌟🌟 |
+|  **MySQL**  |   <img alt="MySQL Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/mysql.svg">   |   🌟🌟🌟🌟🌟   |
 
 ## My Future Goals 🚀
 
