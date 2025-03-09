@@ -21,6 +21,8 @@
 |:-----------:|:---------------------------------------------------------------------------------------------:|:----------------:|
 | **Postman** | <img alt="Postman Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/postman.svg"> | 🌟🌟🌟🌟 |
 |  **MySQL**  |   <img alt="MySQL Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/mysql.svg">   |   🌟🌟🌟🌟🌟   |
+|  **Git**  |   <img alt="Git Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/git.svg">   |   🌟🌟🌟🌟   |
+|  **Docker**  |   <img alt="Docker Icon" src="https://github.com/amir-h-404/amir-h-404/blob/main/docker.svg">   |   🌟   |
 
 ## My Future Goals 🚀
 
